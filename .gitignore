@@ -1,0 +1,54 @@
+# Recordings, extracted features, and any other participant-derived data.
+# None of this is redistributable under the study's ethics approval.
+Data/
+outputs/
+*.csv
+*.avi
+*.mp4
+*.bag
+*.wav
+*.npz
+*.pkl
+
+# Trained weights, cached datasets, and cross-validation result bundles
+*.pt
+*.pth
+*.ckpt
+
+# Model weights downloaded by download_weights.py
+weights/
+models/*.task
+
+# Vendored upstream code (see docs in dataExtraction/)
+yolo_head/
+mmcv/
+MCGaze-master/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+finalReport/draft/main.pdf
+
+# Editor / OS
+.DS_Store
+*.swp
+*:Zone.Identifier
+.idea/
+.vscode/

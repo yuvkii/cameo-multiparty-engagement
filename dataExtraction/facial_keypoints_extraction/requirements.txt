@@ -1,0 +1,16 @@
+numpy<2
+mediapipe
+rosbags
+
+# --- Needed for head_detector.py (YOLO CrowdHuman) and gaze_target_pipeline.py (Gaze-LLE) ---
+# Install torch/torchvision from the CPU index first (no GPU in this environment):
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch torchvision
+timm
+scikit-learn
+pillow
+seaborn
+pandas
+pyyaml
+tqdm
+requests
+pyarrow

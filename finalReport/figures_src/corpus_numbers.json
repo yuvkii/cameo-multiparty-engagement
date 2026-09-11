@@ -1,0 +1,404 @@
+{
+ "inventory": [
+  {
+   "date": "03_20",
+   "session": 1,
+   "fps": 30.0,
+   "duration": 140.86666666666667,
+   "nframes": 4226,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 671,
+   "person_frames": 2013,
+   "mean_label": 33.09786388474913
+  },
+  {
+   "date": "03_20",
+   "session": 3,
+   "fps": 30.0,
+   "duration": 174.73333333333332,
+   "nframes": 5242,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 849,
+   "person_frames": 2547,
+   "mean_label": 68.73930113859443
+  },
+  {
+   "date": "03_20",
+   "session": 4,
+   "fps": 30.0,
+   "duration": 232.13333333333333,
+   "nframes": 6964,
+   "rng": "18",
+   "method": "tracker",
+   "graphs": 1056,
+   "person_frames": 3079,
+   "mean_label": 59.217278337122444
+  },
+  {
+   "date": "03_26",
+   "session": 1,
+   "fps": 30.0,
+   "duration": 175.33333333333334,
+   "nframes": 5260,
+   "rng": "48",
+   "method": "rank",
+   "graphs": 595,
+   "person_frames": 1760,
+   "mean_label": 49.36931818181818
+  },
+  {
+   "date": "03_26",
+   "session": 2,
+   "fps": 30.0,
+   "duration": 100.73333333333333,
+   "nframes": 3022,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 452,
+   "person_frames": 1356,
+   "mean_label": 25.691002949852507
+  },
+  {
+   "date": "03_26",
+   "session": 3,
+   "fps": 30.0,
+   "duration": 201.43333333333334,
+   "nframes": 6043,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 958,
+   "person_frames": 2874,
+   "mean_label": 53.16527487821851
+  },
+  {
+   "date": "03_26",
+   "session": 4,
+   "fps": 30.0,
+   "duration": 35.5,
+   "nframes": 1065,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 151,
+   "person_frames": 450,
+   "mean_label": 29.684444444444445
+  },
+  {
+   "date": "03_26",
+   "session": 5,
+   "fps": 30.0,
+   "duration": 264.3333333333333,
+   "nframes": 7930,
+   "rng": "0",
+   "method": "tracker",
+   "graphs": 1287,
+   "person_frames": 3830,
+   "mean_label": 54.943342036553524
+  },
+  {
+   "date": "03_26",
+   "session": 6,
+   "fps": 30.0,
+   "duration": 402.3333333333333,
+   "nframes": 12070,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 1968,
+   "person_frames": 5904,
+   "mean_label": 59.02269647696477
+  },
+  {
+   "date": "05_15",
+   "session": 1,
+   "fps": 30.0,
+   "duration": 196.16666666666666,
+   "nframes": 5885,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 712,
+   "person_frames": 2136,
+   "mean_label": 47.38998127340824
+  },
+  {
+   "date": "05_15",
+   "session": 2,
+   "fps": 30.0,
+   "duration": 310.56666666666666,
+   "nframes": 9317,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 1467,
+   "person_frames": 4401,
+   "mean_label": 65.09588729834128
+  },
+  {
+   "date": "05_15",
+   "session": 4,
+   "fps": 30.0,
+   "duration": 330.4,
+   "nframes": 9912,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 1484,
+   "person_frames": 4364,
+   "mean_label": 68.71677360219982
+  },
+  {
+   "date": "05_15",
+   "session": 5,
+   "fps": 30.0,
+   "duration": 336.9,
+   "nframes": 10107,
+   "rng": "180",
+   "method": "rank",
+   "graphs": 739,
+   "person_frames": 2203,
+   "mean_label": 50.15615070358602
+  },
+  {
+   "date": "05_15",
+   "session": 6,
+   "fps": 30.0,
+   "duration": 546.1666666666666,
+   "nframes": 16385,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 2661,
+   "person_frames": 7981,
+   "mean_label": 68.91705300087709
+  },
+  {
+   "date": "05_14",
+   "session": 1,
+   "fps": 60.0,
+   "duration": 119.43333333333334,
+   "nframes": 7166,
+   "rng": "0",
+   "method": "rank",
+   "graphs": 503,
+   "person_frames": 1509,
+   "mean_label": 27.971504307488402
+  },
+  {
+   "date": "05_14",
+   "session": 2,
+   "fps": 60.0,
+   "duration": 398.21666666666664,
+   "nframes": 23893,
+   "rng": "15",
+   "method": "rank",
+   "graphs": 1831,
+   "person_frames": 5491,
+   "mean_label": 56.41085412493171
+  },
+  {
+   "date": "05_14",
+   "session": 3,
+   "fps": 60.0,
+   "duration": 621.2833333333333,
+   "nframes": 37277,
+   "rng": "20",
+   "method": "tracker",
+   "graphs": 2950,
+   "person_frames": 8427,
+   "mean_label": 40.97021478580752
+  },
+  {
+   "date": "05_14",
+   "session": 4,
+   "fps": 60.0,
+   "duration": 683.9666666666667,
+   "nframes": 41038,
+   "rng": "27",
+   "method": "rank",
+   "graphs": 3212,
+   "person_frames": 9636,
+   "mean_label": 65.07752179327522
+  },
+  {
+   "date": "05_14",
+   "session": 5,
+   "fps": 60.0,
+   "duration": 607.3166666666667,
+   "nframes": 36439,
+   "rng": "17",
+   "method": "rank",
+   "graphs": 2900,
+   "person_frames": 8700,
+   "mean_label": 64.95068965517241
+  },
+  {
+   "date": "05_14",
+   "session": 6,
+   "fps": 60.0,
+   "duration": 690.4,
+   "nframes": 41424,
+   "rng": "4-686",
+   "method": "rank",
+   "graphs": 3301,
+   "person_frames": 9901,
+   "mean_label": 73.72477527522473
+  }
+ ],
+ "coverage": [
+  {
+   "date": "03_20",
+   "coverage": 0.9160885214805603,
+   "au": 0.0685458853840828,
+   "mouth": 9.65715217590332,
+   "robot": 0.7855740189552307,
+   "elsewhere": 0.10341668128967285,
+   "participant": 0.11100929230451584
+  },
+  {
+   "date": "03_26",
+   "coverage": 0.9185730218887329,
+   "au": 0.07518229633569717,
+   "mouth": 7.177349090576172,
+   "robot": 0.6872758865356445,
+   "elsewhere": 0.12928156554698944,
+   "participant": 0.18344256281852722
+  },
+  {
+   "date": "05_15",
+   "coverage": 0.9243063926696777,
+   "au": 0.16532638669013977,
+   "mouth": 7.205351829528809,
+   "robot": 0.6399810314178467,
+   "elsewhere": 0.1133032962679863,
+   "participant": 0.24671567976474762
+  },
+  {
+   "date": "05_14",
+   "coverage": 0.9537147283554077,
+   "au": 0.13157464563846588,
+   "mouth": 3.276637315750122,
+   "robot": 0.6869274377822876,
+   "elsewhere": 0.13697783648967743,
+   "participant": 0.17609472572803497
+  }
+ ],
+ "session_coverage": [
+  {
+   "date": "03_20",
+   "session": 1,
+   "coverage": 0.935916543006897,
+   "au": 0.06929998099803925
+  },
+  {
+   "date": "03_20",
+   "session": 3,
+   "coverage": 0.9312916994094849,
+   "au": 0.05822629854083061
+  },
+  {
+   "date": "03_20",
+   "session": 4,
+   "coverage": 0.8905488848686218,
+   "au": 0.07695483416318893
+  },
+  {
+   "date": "03_26",
+   "session": 1,
+   "coverage": 0.987500011920929,
+   "au": 0.0861259400844574
+  },
+  {
+   "date": "03_26",
+   "session": 2,
+   "coverage": 0.9476401209831238,
+   "au": 0.07440591603517532
+  },
+  {
+   "date": "03_26",
+   "session": 3,
+   "coverage": 0.9297146797180176,
+   "au": 0.07011421769857407
+  },
+  {
+   "date": "03_26",
+   "session": 4,
+   "coverage": 0.5866666436195374,
+   "au": 0.09136962890625
+  },
+  {
+   "date": "03_26",
+   "session": 5,
+   "coverage": 0.8754569292068481,
+   "au": 0.07222138345241547
+  },
+  {
+   "date": "03_26",
+   "session": 6,
+   "coverage": 0.9391937851905823,
+   "au": 0.07539401203393936
+  },
+  {
+   "date": "05_15",
+   "session": 1,
+   "coverage": 0.858146071434021,
+   "au": 0.20884808897972107
+  },
+  {
+   "date": "05_15",
+   "session": 2,
+   "coverage": 0.9293342232704163,
+   "au": 0.1816156804561615
+  },
+  {
+   "date": "05_15",
+   "session": 4,
+   "coverage": 0.9486709237098694,
+   "au": 0.12575429677963257
+  },
+  {
+   "date": "05_15",
+   "session": 5,
+   "coverage": 0.8978665471076965,
+   "au": 0.15177471935749054
+  },
+  {
+   "date": "05_15",
+   "session": 6,
+   "coverage": 0.933216392993927,
+   "au": 0.17126557230949402
+  },
+  {
+   "date": "05_14",
+   "session": 1,
+   "coverage": 0.9403578639030457,
+   "au": 0.14967432618141174
+  },
+  {
+   "date": "05_14",
+   "session": 2,
+   "coverage": 0.9355308413505554,
+   "au": 0.14133384823799133
+  },
+  {
+   "date": "05_14",
+   "session": 3,
+   "coverage": 0.8915390968322754,
+   "au": 0.11994355171918869
+  },
+  {
+   "date": "05_14",
+   "session": 4,
+   "coverage": 0.982772946357727,
+   "au": 0.1471547931432724
+  },
+  {
+   "date": "05_14",
+   "session": 5,
+   "coverage": 0.9658620953559875,
+   "au": 0.12250016629695892
+  },
+  {
+   "date": "05_14",
+   "session": 6,
+   "coverage": 0.9798000454902649,
+   "au": 0.1254182606935501
+  }
+ ]
+}
